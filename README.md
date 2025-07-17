@@ -36,7 +36,7 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 ---
 
 ## ⚙️ Setup Instructions
-### 1. Clone the Repo
+### 1. Install Dependencies
 
 pip install mysql-connector-python
 
