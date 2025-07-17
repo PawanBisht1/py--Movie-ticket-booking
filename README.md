@@ -17,9 +17,40 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 
 ---
 
-## 📸 GUI Snapshot
+## 📸 GUI Screenshots
 
-> Sample GUI with seat selection & QR generation (Add screenshots here if available)
+### 🔐 Sign In / Sign Up  
+![Sign In](screenshots/signin.png)
+
+---
+
+### 🎫 Ticket Booking  
+![Ticket Booking](screenshots/ticketbooking.png)
+
+---
+
+### 🧾 UPI QR Code  
+![QR Code](screenshots/qrcode.png)
+
+---
+
+### ✅ Seat Booking + Receipt  
+![Seat Receipt](screenshots/setabooked.png)
+
+---
+
+### 🔍 Ticket Checking  
+![Ticket Checking](screenshots/ticket_checking.png)
+
+---
+
+### ❌ Ticket Cancellation  
+![Ticket Cancellation](screenshots/ticket_cancelling.png)
+
+---
+
+### 💽 MySQL User Table  
+![Database](screenshots/db-user_accounts.png)
 
 ---
 
