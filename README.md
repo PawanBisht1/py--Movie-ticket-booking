@@ -39,6 +39,7 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 ### 1. Clone the Repo
 
 pip install mysql-connector-python
+
 pip install qrcode[pil]
 
 ### 2. Clone the Repo
