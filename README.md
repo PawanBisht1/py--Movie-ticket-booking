@@ -36,8 +36,12 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 ---
 
 ## ⚙️ Setup Instructions
-
 ### 1. Clone the Repo
+
+pip install mysql-connector-python
+pip install qrcode[pil]
+
+### 2. Clone the Repo
 
 ```bash
 git clone https://github.com/YourUsername/Movie-ticket-bookking.git
