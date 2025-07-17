@@ -54,8 +54,6 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 
 ---
 
-### 💽 MySQL User Table  
-![Database](screenshots/db-user_accounts.png)
 
 ---
 
