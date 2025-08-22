@@ -13,7 +13,7 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 - 📲 **UPI QR Code Generator** for seamless payments
 - 📄 **Receipt Generation** for booking/cancellation
 - 🔎 **Ticket Checking & Account Info**
-- 🧾 **MySQL** powered backend
+- 🧾 **MySQL** powered backend.
 
 ---
 
@@ -23,6 +23,9 @@ A fully functional **Python-based movie ticket booking system** with a graphical
 ![Sign In](screenshots/signin.png)
 
 ---
+
+
+
 
 ### 💽 MySQL User Table  
 ![Database](screenshots/db-user_accounts.png)
