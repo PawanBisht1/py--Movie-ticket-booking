@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Booking System
 
 A fully functional **Python-based movie ticket booking system** with a graphical interface, **MySQL** database integration, **UPI QR code generation**, and real-time **seat selection**. Designed for smooth user experience and ease of booking, cancellation, and payment.
-
+---
 ---
 
 ## 🚀 Features
